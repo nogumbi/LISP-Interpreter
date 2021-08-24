@@ -1,5 +1,5 @@
-# LISP-Interpreter
-Lisp interpreter using Python
+# darth-nihils-lisp
 
-***To Run
-python3 lisp_parser.py
+LISP induction week project
+
+Just checked repo is live and working with gitlabs. Lets have some fun guys :p
